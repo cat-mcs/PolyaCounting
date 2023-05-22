@@ -6,7 +6,7 @@ FromGap = GAPtxt.read()
 FromGap = FromGap.replace('\n','')
 FromGap = FromGap.replace(" ","")
 
-colours = [2,3,4,5,6,7,8,9,10]
+colours = [1,5,10]
 
 list = []
 CycleLengths = []
