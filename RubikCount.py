@@ -1,11 +1,13 @@
 
 import re 
 
+#comment statement testing
 GAPtxt = open("/Users/cathaoir/Desktop/gap.txt","r")
 FromGap = GAPtxt.read()
 FromGap = FromGap.replace('\n','')
 FromGap = FromGap.replace(" ","")
 
+#more comments
 colours = [1,5,10]
 
 list = []
